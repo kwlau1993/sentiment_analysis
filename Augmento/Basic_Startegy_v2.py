@@ -6,6 +6,7 @@ Created on Wed Aug 14 15:54:34 2019
 @author: raghav, lau
 
 #Largely based on Augmento's code at https://github.com/augmento-ai/quant-reseach
+#Purpose is to reproduc Augmento's "Positive/Bearish" sentiment indicator that claims to give a very decent profit in BTC from 2017 - 2019
 """
 
 #import sys
